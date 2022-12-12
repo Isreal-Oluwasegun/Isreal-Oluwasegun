@@ -2,7 +2,7 @@
 - 👀 I’m interested in python software development and web development 
 - 🌱 I’m currently learning python, Django framework
 - 💞️ I’m looking to collaborate on any interesting and brain tasking project
-- 📫 How to reach me ...
+- 📫 How to reach me marksegman@outlook.com
 
 <!---
 Isreal-Oluwasegun/Isreal-Oluwasegun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
