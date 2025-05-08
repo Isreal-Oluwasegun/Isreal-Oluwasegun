@@ -3,15 +3,30 @@
 **Data-Driven Innovation Architect | AI/ML, Computer Vision & Backend Expertise** ✨
 
 Harnessing the power of intelligent systems and insightful data analysis to drive impactful solutions. A seasoned Data Scientist with a strong foundation in AI/ML, Computer Vision, and the robust architecture of backend development.
-<p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> </a>
-  <a href="https://developers.google.com/sheets/api/quickstart/python" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI"> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> </a>
-  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SageMaker"> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> </a>
-</p>
+## 🛠️ Top Skills:
+
+### Artificial Intelligence & Computer Vision
+
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python:** Foundation for AI/ML and CV development.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="20" height="20"> TensorFlow:** Deep learning model building and deployment.
+* **<img src="https://pytorch.org/assets/images/pytorch-logo.svg" alt="PyTorch" width="20" height="20"> PyTorch:** Deep learning research and application development.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="20" height="20"> Computer Vision:** Image processing, object detection, video analysis.
+
+### Data Science & Analytics
+
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python:** Data manipulation, analysis, and scripting.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"> SQL:** Database querying and management for data extraction.
+* **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Google_Sheets_icon_%282020%29.svg/596px-Google_Sheets_icon_%282020%29.svg.png" alt="Google Sheets" width="20" height="20"> Google Sheets:** Data analysis and quick visualizations.
+* **<img src="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI" width="20" height="20"> PowerBI:** Interactive data visualization and business intelligence.
+
+### Backend Development
+
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python:** Backend logic and API development.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="20" height="20"> Django:** Robust and scalable backend web framework.
+
+### Cloud & Tools
+
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="20" height="20"> AWS SageMaker:** End-to-end machine learning platform on the cloud.
 </div>
 
 ---
