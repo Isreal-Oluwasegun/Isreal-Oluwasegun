@@ -3,30 +3,18 @@
 **Data-Driven Innovation Architect | AI/ML, Computer Vision & Backend Expertise** ✨
 
 Harnessing the power of intelligent systems and insightful data analysis to drive impactful solutions. A seasoned Data Scientist with a strong foundation in AI/ML, Computer Vision, and the robust architecture of backend development.
-## 🛠️ Top Skills:
+## Top Skills:
 
-### Artificial Intelligence & Computer Vision
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python:** Backend development, AI/ML scripting, data analysis.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="20" height="20"> TensorFlow:** AI/ML model building, deployment, and optimization.
+* **<img src="https://pytorch.org/assets/images/pytorch-logo.svg" alt="PyTorch" width="20" height="20"> PyTorch:** Deep learning framework for AI/ML.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="20" height="20"> Computer Vision:** Image processing, object detection.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"> SQL:** Database management and querying for data analysis.
+* **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Google_Sheets_icon_%282020%29.svg/596px-Google_Sheets_icon_%282020%29.svg.png" alt="Google Sheets" width="20" height="20"> Google Sheets & PowerBI:** Data analysis and visualization.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="20" height="20"> Django:** Backend web framework built with Python.
+* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="20" height="20"> AWS SageMaker:** Cloud-based platform for AI/ML workflows.
 
-* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python:** Foundation for AI/ML and CV development.
-* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="20" height="20"> TensorFlow:** Deep learning model building and deployment.
-* **<img src="https://pytorch.org/assets/images/pytorch-logo.svg" alt="PyTorch" width="20" height="20"> PyTorch:** Deep learning research and application development.
-* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="20" height="20"> Computer Vision:** Image processing, object detection, video analysis.
 
-### Data Science & Analytics
-
-* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python:** Data manipulation, analysis, and scripting.
-* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"> SQL:** Database querying and management for data extraction.
-* **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Google_Sheets_icon_%282020%29.svg/596px-Google_Sheets_icon_%282020%29.svg.png" alt="Google Sheets" width="20" height="20"> Google Sheets:** Data analysis and quick visualizations.
-* **<img src="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI" width="20" height="20"> PowerBI:** Interactive data visualization and business intelligence.
-
-### Backend Development
-
-* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python:** Backend logic and API development.
-* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="20" height="20"> Django:** Robust and scalable backend web framework.
-
-### Cloud & Tools
-
-* **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="20" height="20"> AWS SageMaker:** End-to-end machine learning platform on the cloud.
 </div>
 
 ---
