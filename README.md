@@ -1,6 +1,6 @@
 <div align="center">
 
-**Data-Driven Innovation Architect | AI/ML, Computer Vision & Backend Expertise** ✨
+**Data-Driven Innovation Architect | AI/ML, Computer Vision & Backend Expertise**
 
 Harnessing the power of intelligent systems and insightful data analysis to drive impactful solutions. A seasoned Data Scientist with a strong foundation in AI/ML, Computer Vision, and the robust architecture of backend development.
 <p align="center">
