@@ -3,9 +3,7 @@
 **Data-Driven Innovation Architect | AI/ML, Computer Vision & Backend Expertise** ✨
 
 Harnessing the power of intelligent systems and insightful data analysis to drive impactful solutions. A seasoned Data Scientist with a strong foundation in AI/ML, Computer Vision, and the robust architecture of backend development.
-
-[![An elegant data visualization GIF (replace with your preferred)](https://media.giphy.com/media/L05HgBwy2gm0JirHpB/giphy.gif)](YOUR_DATA_VIZ_GIF_LINK_HERE)
-
+[![AI Brain Neural Network GIF](https://media.giphy.com/media/jJxa0T1MgF4rJHxZsb/giphy.gif)](https://giphy.com/gifs/artificial-intelligence-ai-neural-network-jJxa0T1MgF4rJHxZsb)
 </div>
 
 ---
