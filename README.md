@@ -40,9 +40,12 @@ Adept at leveraging these technologies to build end-to-end solutions, from data 
 * Exploring opportunities to leverage **machine learning** for tangible business value.
 
 ## Connect Professionally:
-
-[![www.linkedin.com/in/israel-oluwasegun](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![marksegman2@gmail.com](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)]
+<a href="https://www.linkedin.com/in/israel-oluwasegun" target="_blank">
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href="mailto:marksegman2@gmail.com">
+  ![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 
 ---
 
